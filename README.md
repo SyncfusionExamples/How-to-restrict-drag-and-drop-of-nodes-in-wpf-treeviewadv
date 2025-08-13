@@ -71,7 +71,7 @@ public class ViewModel
 </Grid>
 ```
 
-```xml
+```csharp
 public partial class MainWindow : Window
 {
     TreeViewItemAdv drag = null;
